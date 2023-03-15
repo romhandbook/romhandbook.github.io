@@ -1,6 +1,7 @@
 ---
 title: Arcane Master 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

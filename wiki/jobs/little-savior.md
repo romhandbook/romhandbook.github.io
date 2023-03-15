@@ -1,6 +1,7 @@
 ---
 title: Little Savior 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

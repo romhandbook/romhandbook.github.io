@@ -1,6 +1,7 @@
 ---
 title: Assassin Cross 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

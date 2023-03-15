@@ -1,6 +1,7 @@
 ---
 title: Ryuoumaru 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

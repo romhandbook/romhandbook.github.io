@@ -1,6 +1,7 @@
 ---
 title: Warrior of Wildfire 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

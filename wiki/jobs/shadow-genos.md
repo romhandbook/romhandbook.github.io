@@ -1,6 +1,7 @@
 ---
 title: Shadow - Genos 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

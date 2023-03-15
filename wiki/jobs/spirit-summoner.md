@@ -1,6 +1,7 @@
 ---
 title: Spirit Summoner 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

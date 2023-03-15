@@ -1,6 +1,7 @@
 ---
 title: Chaotic Archmage 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

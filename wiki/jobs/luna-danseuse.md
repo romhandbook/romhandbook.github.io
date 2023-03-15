@@ -1,6 +1,7 @@
 ---
 title: Luna Danseuse 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

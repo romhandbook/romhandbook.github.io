@@ -1,6 +1,7 @@
 ---
 title: Whitesmith 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

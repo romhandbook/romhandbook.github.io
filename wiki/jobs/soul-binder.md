@@ -1,6 +1,7 @@
 ---
 title: Soul Binder 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

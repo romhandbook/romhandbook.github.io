@@ -1,6 +1,7 @@
 ---
 title: Solar Trouvere 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

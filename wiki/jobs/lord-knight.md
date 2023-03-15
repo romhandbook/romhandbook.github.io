@@ -1,6 +1,7 @@
 ---
 title: Lord Knight 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

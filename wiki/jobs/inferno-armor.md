@@ -1,6 +1,7 @@
 ---
 title: Inferno Armor 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

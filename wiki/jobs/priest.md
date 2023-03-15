@@ -1,6 +1,7 @@
 ---
 title: Priest 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

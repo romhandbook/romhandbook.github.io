@@ -1,6 +1,7 @@
 ---
 title: Stalker 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

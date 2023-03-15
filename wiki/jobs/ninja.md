@@ -1,6 +1,7 @@
 ---
 title: Ninja 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

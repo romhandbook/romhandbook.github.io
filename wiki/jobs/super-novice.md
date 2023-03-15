@@ -1,6 +1,7 @@
 ---
 title: Super Novice 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

@@ -1,6 +1,7 @@
 ---
 title: Apocalypse 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

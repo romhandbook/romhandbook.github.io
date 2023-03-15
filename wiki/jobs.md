@@ -1,5 +1,6 @@
 ---
 title: Jobs 
+layout: home
 ---
 
 ### Heroes

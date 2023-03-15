@@ -1,6 +1,7 @@
 ---
 title: Dragon Fist 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

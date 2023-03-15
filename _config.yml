@@ -3,9 +3,3 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 url: https://just-the-docs.github.io
 color_scheme: theme
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "home"

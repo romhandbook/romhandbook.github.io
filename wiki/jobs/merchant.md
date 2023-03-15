@@ -1,6 +1,7 @@
 ---
 title: Merchant 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

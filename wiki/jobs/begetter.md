@@ -1,6 +1,7 @@
 ---
 title: Begetter 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

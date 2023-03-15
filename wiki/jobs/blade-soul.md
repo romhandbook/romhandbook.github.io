@@ -1,6 +1,7 @@
 ---
 title: Blade Soul 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

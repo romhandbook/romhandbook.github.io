@@ -1,6 +1,7 @@
 ---
 title: Royal Guard 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

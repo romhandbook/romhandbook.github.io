@@ -1,6 +1,7 @@
 ---
 title: Shadow Chaser 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">

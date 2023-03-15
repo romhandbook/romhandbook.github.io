@@ -1,6 +1,7 @@
 ---
 title: Advanced Novice. 
 parent: Jobs
+layout: home
 ---
 
 <details open markdown="block">
